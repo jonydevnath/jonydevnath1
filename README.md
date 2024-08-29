@@ -21,6 +21,6 @@ Sections:
 > Contact: Functional contact form with JavaScript validation for visitors to reach out.
 
 Live Preview
-> https://jonydevnath1.github.io/jonydevnath/
+> https://jonydevnath.github.io/jonydevnath1/
 
 Hope this README provides a comprehensive overview of the portfolio website, detailing its purpose, technology stack, main sections, and key features, ensuring clarity and completeness for potential users and collaborators.
